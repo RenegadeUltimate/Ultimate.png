@@ -1,3 +1,7 @@
 .icon{
     border-radius: 50% 50%;
 }
+
+body{
+  background-color: orange;
+}
